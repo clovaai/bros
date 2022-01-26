@@ -1,0 +1,22 @@
+nptyping==1.4.2
+numpy==1.20.3
+opencv-python-headless==4.5.4.60
+pytorch-lightning==1.5.6
+omegaconf
+pillow
+six
+overrides==4.1.2
+transformers==4.11.3
+seqeval==0.0.12
+imagesize
+
+tensorboard>=2.2.0
+
+# code-style
+isort==5.9.3
+black==21.9b0
+
+# pytorch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.9.1+cu102
+torchvision==0.10.1+cu102
