@@ -8,7 +8,9 @@ For more details, please refer to our paper:
 
 **BROS: A Pre-trained Language Model Focusing on Text and Layout for Better Key Information Extraction from Documents**<br> 
 Teakgyu Hong, Donghyun Kim, Mingi Ji, Wonseok Hwang, Daehyun Nam, Sungrae Park<br>
-AAAI 2022 (to appear)
+AAAI 2022 - Main Technical Track
+
+[[arXiv]](https://arxiv.org/abs/2108.04539)
 
 ## Pre-trained models
 
